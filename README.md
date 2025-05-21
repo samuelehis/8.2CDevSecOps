@@ -1,2 +1,2 @@
 # 8.2CDevSecOps
-use nom to run security tests on the nodes-goof
+using npm to run security tests on the nodejs-goof
